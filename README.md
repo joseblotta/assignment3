@@ -1,7 +1,7 @@
 # assignment3
 Assignment 3 / Angular Intro
 
-SYST24444 Mobile Web-Based Application
+Jose Molinari Blotta / 991496251 / molinajo / Davis Campus FOR SYST24444
 
 Assignment 3 (10%) / Angular Intro
 Create a new Angular project called yourLoginNameA3 / This mobile assignment will need to be formatted for both landscape and portrait views.
